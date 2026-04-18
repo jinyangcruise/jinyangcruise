@@ -11,14 +11,14 @@ Making free & open-source Godot plugins for the community.
 
 🛠️ Tools & Languages
 
-<code>![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)</code>
-<code>![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)</code>
-<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)</code>
-<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</code>
-<code>![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</code>
-<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</code>
-<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</code>
-<code>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</code>
+<code>![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=Plastic&logo=godot-engine)</code>
+<code>![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=Plastic&logo=godotengine&logoColor=white)</code>
+<code>![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=Plastic&logo=c%2B%2B&logoColor=white)</code>
+<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=Plastic&logo=openjdk&logoColor=white)</code>
+<code>![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=Plastic&logo=gnu-bash&logoColor=white)</code>
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=Plastic&logo=javascript&logoColor=%23F7DF1E)</code>
+<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=Plastic&logo=html5&logoColor=white)</code>
+<code>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=Plastic&logo=php&logoColor=white)</code>
 
 
 <br>
@@ -32,7 +32,7 @@ Making free & open-source Godot plugins for the community.
 
 📫 How to reach me
 - email: jinyangcruise@163.com
-- bilibili: <a href='https://space.bilibili.com/444817189' target='_blank'><img height='20' style='border:0px;height:20px;' src='https://img.shields.io/badge/bilibili-00A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white' /></a>
+- bilibili: <a href='https://space.bilibili.com/444817189' target='_blank'><img height='20' style='border:0px;height:20px;' src='https://img.shields.io/badge/bilibili-00A1D6.svg?style=Plastic&logo=bilibili&logoColor=white' /></a>
 
 <br>
 
