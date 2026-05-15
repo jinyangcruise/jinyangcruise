@@ -36,7 +36,6 @@ Making free & open-source Godot plugins for the community.
 
 <br>
 
-![Jinyangcruise's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyangcruise\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 <a href='https://ko-fi.com/T6T11Y0N99' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
