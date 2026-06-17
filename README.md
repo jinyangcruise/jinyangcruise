@@ -26,7 +26,7 @@ Making free & open-source Godot plugins for the community.
 📦 My Open Source Plugins
 - GDSQL – Database SQL Workbench Plugin for Godot Engine https://github.com/jinyangcruise/GDSQL
 - OpenAssistant – AI-powered screen-capture assistant. Screenshot → AI analysis → auto-insert at cursor. Supports Doubao Desktop, per-prompt shortcuts https://github.com/jinyangcruise/OpenAssistant
-- CC Allow - Auto allow Claude Code Desktop for users.
+- CC Allow - Auto allow Claude Code Desktop for users. https://github.com/jinyangcruise/CCAllow
 
 <br>
 
